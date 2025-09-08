@@ -2,6 +2,7 @@
 
 Uma aplicação web desenvolvida em React que consome a API do OpenWeatherMap para exibir informações meteorológicas em tempo real e previsão para os próximos 5 dias.
 
+
 ## Objetivo do Projeto
 
 O principal objetivo deste projeto é demonstrar como consumir APIs externas em aplicações React, incluindo:
