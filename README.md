@@ -1,7 +1,7 @@
 # Previsão do Tempo
 
 Uma aplicação web desenvolvida em React que consome a API do OpenWeatherMap para exibir informações meteorológicas em tempo real e previsão para os próximos 5 dias.
-
+O projeto pode ser acesso atráves desse link: https://jupereira25.github.io/weather-api-react/
 
 ## Objetivo do Projeto
 
